@@ -3,7 +3,7 @@ I'm a Computer Science graduate student at The George Washington University with
 
 ## 🎓 Education
 **Master of Science in Computer Science**, *The George Washington University* (Expected: May 2026)
-- GPA: 3.66 
+- GPA: 3.74
 - Honors: SEAS Merit Award
 - Coursework: Neural Networks & Deep Learning, Machine Learning, Database Systems II, Cloud Computing
 
@@ -12,23 +12,33 @@ I'm a Computer Science graduate student at The George Washington University with
 
 ## 💼 Experience
 
-**Data Science Intern**, *Thaddeus Resource Center*(Nov 2025 - Present)<br>
-As a Data Science Intern at Thaddeus Resource Center, I work with real-world, multi-source program data to support impact analysis and decision-making. My responsibilities include designing and refining data collection frameworks, cleaning and integrating intake forms, case notes, and engagement records, and performing exploratory data analysis to uncover trends in client engagement and service outcomes. I also develop analytical and machine learning workflows and create dashboards and visualizations to communicate insights to non-technical stakeholders, collaborating closely with cross-functional teams to translate ambiguous program questions into data-driven solutions.
+**Data Science Intern**, *Thaddeus Resource Center*(November 2025 - Present)<br>
+-Integrated multi-source datasets (surveys, CRM logs, intake forms, case notes, engagement records) using Python and SQL to create analysis-ready structures for program evaluation
+-Conducted exploratory data analysis and applied machine learning techniques to reveal participant progress patterns and support evidence-based planning
+-Automated data collection and validation workflows in Python, reducing manual reporting time by over 30% and improving overall reliability
+-Collaborated with program teams to identify key metrics and build interactive Tableau dashboards that delivered clear, actionable insights for decision-making
 
 
-**Data Support Assistant**, *GWU Libraries* (Jan 2025 – Present) <br>
-At GWU Libraries, I analyzed borrowing and circulation data to surface student demand, guiding acquisitions and partner sourcing. I processed nearly 50,000 rows of e-resource usage in Excel (filters, aggregations, lookups) to highlight trends, and structured/validated transaction logs to improve accuracy on overdues, fines, and availability. I also improved dataset organization for researchers and helped design a systematic collection-maintenance approach based on usage histories.
+**AI Intern**, *Wavess* (September 2025 – January 2026) <br>
+-Built FastAPI backend with OpenAI LLM integration and web scraping pipelines to extract and analyze hiring trends, news, and customer feedback for automated sales intelligence.
+-Designed and deployed Dockerized n8n workflows with webhook triggers and Firestore integration, enabling scalable data processing for real-time company insights.
+-Implemented Firebase authentication and database features alongside Bootstrap/Jinja frontend for secure, user-friendly full-stack AI applications.
+-Optimized error handling in scraping modules and launched production systems on fly.io, supporting robust lead prioritization and go-to-market strategies.
 
 **CRM Data & Analytics Intern**, *PricewaterhouseCoopers(PwC - AC)* (Feb 2024 – Aug 2024) <br>
-At PwC, I extracted, cleaned, and organized 10,000+ Salesforce CRM records to improve the accuracy of client and sales reporting. I built and optimized interactive dashboards tracking lead conversion, pipeline progression, and customer engagement, giving stakeholders clear, real-time insights. I also coordinated cross-functional work in Jira to streamline workflows and authored 20+ pages of QA documentation (test cases, validation steps) to standardize and strengthen reporting processes.
+-Audited and structured 10,000+ Salesforce CRM entries, boosting data accuracy and reliability for sales forecasting and pipeline reporting.
+-Created analytical dashboards and summaries for consulting teams, driving informed strategy and client discussions.
+-Led cross-functional task tracking in Jira, improving sprint speed and overall workflow coordination.
+-Authored 20+ QA validation documents, establishing standardized checks to maintain high-quality reporting processes.
 
 ## 🧰 Tech Toolbox
 
-- **Languages:**	Python,	SQL, Java, HTML,	CSS,	JavaScript,	Machine	Learning,	R	Programming
-- **Data	Engineering:**	ETL, Data Pipeline,	BeautifulSoup(Web	Scraping)	
-- **Data	Science:**	pandas,	NumPy,	Scikit-learn,	matplotlib,	seaborn,  Tensorflow, keras, PyTorch
-- **Database	Systems:**	MySQL, PostgreSQL
-- **Tools	&	Platforms:**	Colab,	VS	Code,	Microsoft	Office,	Salesforce,	Jira,	Tableau,	PowerBI,	MATLAB,	APIs,	Streamlit
+- **Programming:**	Python,	SQL, Java, HTML,	CSS,	JavaScript,	R	Programming.
+- **Data	Engineering:**	ETL Pipeline,	BeautifulSoup(Web	Scraping), Apache Airflow, Docker, Data Validation.
+- **Data Visualization:** ' Tableau, Power BI, Plotly, Matplotlib, Seaborn
+- **Data	Science:**	pandas,	NumPy,	Scikit-learn, Tensorflow, Keras, PyTorch, APIs
+- **Databases	& Cloud:**	MySQL, PostgreSQL, Google Firebase, Firestore, AWS
+- **Tools	&	Platforms:**	Google Colab,	VS	Code, Jupyter Notebook,	Microsoft	Office,	Salesforce,	Jira,	MATLAB,	Streamlit, fly.io
 - **Version Control:** Github
 - **Soft	Skills:**	Team	Collaboration,	Problem-Solving,	Communication	(Written	and	Verbal),	Adaptability	,	Time Management,	Leadership	
 ```
@@ -47,7 +57,10 @@ End-to-end data engineering and analytics pipeline built on the FDA Adverse Even
 - Built interactive dashboards to explore safety signals and trends.
 
 **Similar Image Finder** <br>
-Team project: we embedded 21k+ Unsplash photos with CLIP ViT-B/32, then used KNN (cosine) to return the top-6 nearest images for any query; evaluated on 1,000 queries with nearly 0.91 average similarity. Implemented in PyTorch and scikit-learn with Matplotlib visualizations. It’s useful for visual search, content discovery, deduplication, and mood-board building.
+- Engineered a CLIP-powered semantic search engine by extracting ViT-B/32 embeddings from 21,000+ Unsplash images using PyTorch, enabling zero-shot multimodal similarity matching.
+- Implemented KNN retrieval with cosine distance in Scikit-Learn, delivering top-6 similar images per query with 0.91 mean accuracy across 1,000 rigorous evaluation tests.
+- Created Matplotlib visualization tools for side-by-side result comparisons, similarity score analysis, and embedding space exploration to highlight model interpretability.
+- Demonstrated practical applications in content discovery and media management through robust performance on diverse conceptual queries beyond exact visual matches.
 
 ## 📫 Connect
 
@@ -55,4 +68,4 @@ Team project: we embedded 21k+ Unsplash photos with CLIP ViT-B/32, then used KNN
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sneha-uppu-6a019b238/
 
-- 🌐 Portfolio: https://snehauppu5.wixsite.com/snehauppu1
+- 🌐 Portfolio: https://sneha-uppu-portfolio.onrender.com/
