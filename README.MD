@@ -13,23 +13,23 @@ I'm a Computer Science graduate student at The George Washington University with
 ## 💼 Experience
 
 **Data Science Intern**, *Thaddeus Resource Center*(November 2025 - Present)<br>
--Integrated multi-source datasets (surveys, CRM logs, intake forms, case notes, engagement records) using Python and SQL to create analysis-ready structures for program evaluation
--Conducted exploratory data analysis and applied machine learning techniques to reveal participant progress patterns and support evidence-based planning
--Automated data collection and validation workflows in Python, reducing manual reporting time by over 30% and improving overall reliability
--Collaborated with program teams to identify key metrics and build interactive Tableau dashboards that delivered clear, actionable insights for decision-making
+- Integrated multi-source datasets (surveys, CRM logs, intake forms, case notes, engagement records) using Python and SQL to create analysis-ready structures for program evaluation
+- Conducted exploratory data analysis and applied machine learning techniques to reveal participant progress patterns and support evidence-based planning
+- Automated data collection and validation workflows in Python, reducing manual reporting time by over 30% and improving overall reliability
+- Collaborated with program teams to identify key metrics and build interactive Tableau dashboards that delivered clear, actionable insights for decision-making
 
 
 **AI Intern**, *Wavess* (September 2025 – January 2026) <br>
--Built FastAPI backend with OpenAI LLM integration and web scraping pipelines to extract and analyze hiring trends, news, and customer feedback for automated sales intelligence.
--Designed and deployed Dockerized n8n workflows with webhook triggers and Firestore integration, enabling scalable data processing for real-time company insights.
--Implemented Firebase authentication and database features alongside Bootstrap/Jinja frontend for secure, user-friendly full-stack AI applications.
--Optimized error handling in scraping modules and launched production systems on fly.io, supporting robust lead prioritization and go-to-market strategies.
+- Built FastAPI backend with OpenAI LLM integration and web scraping pipelines to extract and analyze hiring trends, news, and customer feedback for automated sales intelligence.
+- Designed and deployed Dockerized n8n workflows with webhook triggers and Firestore integration, enabling scalable data processing for real-time company insights.
+- Implemented Firebase authentication and database features alongside Bootstrap/Jinja frontend for secure, user-friendly full-stack AI applications.
+- Optimized error handling in scraping modules and launched production systems on fly.io, supporting robust lead prioritization and go-to-market strategies.
 
 **CRM Data & Analytics Intern**, *PricewaterhouseCoopers(PwC - AC)* (Feb 2024 – Aug 2024) <br>
--Audited and structured 10,000+ Salesforce CRM entries, boosting data accuracy and reliability for sales forecasting and pipeline reporting.
--Created analytical dashboards and summaries for consulting teams, driving informed strategy and client discussions.
--Led cross-functional task tracking in Jira, improving sprint speed and overall workflow coordination.
--Authored 20+ QA validation documents, establishing standardized checks to maintain high-quality reporting processes.
+- Audited and structured 10,000+ Salesforce CRM entries, boosting data accuracy and reliability for sales forecasting and pipeline reporting.
+- Created analytical dashboards and summaries for consulting teams, driving informed strategy and client discussions.
+- Led cross-functional task tracking in Jira, improving sprint speed and overall workflow coordination.
+- Authored 20+ QA validation documents, establishing standardized checks to maintain high-quality reporting processes.
 
 ## 🧰 Tech Toolbox
 
