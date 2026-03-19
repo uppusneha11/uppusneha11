@@ -47,8 +47,8 @@ Always learning and picking the right tool for the problem.
 
 ## 🚀 Featured Projects
 
-**Airline On-Time Performance: Data Pipeline, Analytics & Dashboard**
-End-to-end data engineering and analytics project built on U.S. DOT airline performance data to analyze delays, cancellations, and airline efficiency across routes.
+**Airline On-Time Performance: Data Pipeline, Analytics & Dashboard**<br>
+End-to-end data engineering and analytics project built on U.S. DOT airline performance data to analyze delays, cancellations, and airline efficiency across routes.<br>
 - Built a Python-based ingestion pipeline to process multi-year DOT flight data
 - Stored raw data in AWS S3 and created cleaned, analytics-ready tables in PostgreSQL
 - Implemented data cleaning and normalization for inconsistent real-world fields
@@ -73,4 +73,4 @@ End-to-end data engineering and analytics pipeline built on the FDA Adverse Even
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sneha-uppu-6a019b238/
 
-- 🌐 Portfolio: https://sneha-uppu-portfolio.onrender.com/
+- 🌐 Portfolio: https://sneha-uppu-portfolio.vercel.app/
