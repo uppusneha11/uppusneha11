@@ -35,8 +35,8 @@ I'm a Computer Science graduate student at The George Washington University with
 
 - **Programming:**	Python,	SQL, Java, HTML,	CSS,	JavaScript,	R	Programming.
 - **Data	Engineering:**	ETL Pipeline,	BeautifulSoup(Web	Scraping), Apache Airflow, Docker, Data Validation.
-- **Data Visualization:** ' Tableau, Power BI, Plotly, Matplotlib, Seaborn
-- **Data	Science:**	pandas,	NumPy,	Scikit-learn, Tensorflow, Keras, PyTorch, APIs
+- **Data Visualization:**  Tableau, PowerBI, Plotly, Matplotlib, Seaborn
+- **Data	Science:**	Pandas,	NumPy,	Scikit-learn, Tensorflow, Keras, PyTorch, APIs
 - **Databases	& Cloud:**	MySQL, PostgreSQL, Google Firebase, Firestore, AWS
 - **Tools	&	Platforms:**	Google Colab,	VS	Code, Jupyter Notebook,	Microsoft	Office,	Salesforce,	Jira,	MATLAB,	Streamlit, fly.io
 - **Version Control:** Github
@@ -47,6 +47,16 @@ Always learning and picking the right tool for the problem.
 
 ## 🚀 Featured Projects
 
+**Airline On-Time Performance: Data Pipeline, Analytics & Dashboard**
+End-to-end data engineering and analytics project built on U.S. DOT airline performance data to analyze delays, cancellations, and airline efficiency across routes.
+- Built a Python-based ingestion pipeline to process multi-year DOT flight data
+- Stored raw data in AWS S3 and created cleaned, analytics-ready tables in PostgreSQL
+- Implemented data cleaning and normalization for inconsistent real-world fields
+- Automated workflows using Airflow for scheduled data processing
+- Wrote SQL queries to analyze delay trends, airline performance, and route efficiency
+- Built a Tableau dashboard to visualize delays, cancellations, airline rankings, and seasonal patterns
+- Developed a Streamlit app to interactively explore routes and recommend better airline choices
+
 **FAERS Drug Safety & Pharmacovigilance Analysis**<br>
 End-to-end data engineering and analytics pipeline built on the FDA Adverse Event Reporting System (FAERS) to uncover drug–symptom patterns, drug–drug interactions, and dose–response relationships using real-world post-marketing data. <br>
 - Processed millions of FAERS adverse event reports across multiple quarterly releases.
@@ -56,11 +66,6 @@ End-to-end data engineering and analytics pipeline built on the FDA Adverse Even
 - Conducted dose–response analysis using Spearman correlation and logistic regression.
 - Built interactive dashboards to explore safety signals and trends.
 
-**Similar Image Finder** <br>
-- Engineered a CLIP-powered semantic search engine by extracting ViT-B/32 embeddings from 21,000+ Unsplash images using PyTorch, enabling zero-shot multimodal similarity matching.
-- Implemented KNN retrieval with cosine distance in Scikit-Learn, delivering top-6 similar images per query with 0.91 mean accuracy across 1,000 rigorous evaluation tests.
-- Created Matplotlib visualization tools for side-by-side result comparisons, similarity score analysis, and embedding space exploration to highlight model interpretability.
-- Demonstrated practical applications in content discovery and media management through robust performance on diverse conceptual queries beyond exact visual matches.
 
 ## 📫 Connect
 
