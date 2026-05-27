@@ -2,8 +2,8 @@
 I'm a Computer Science graduate student at The George Washington University with a strong focus on **Data Analytics, Data Science,** and **AI-driven solutions**. I love transforming complex data into actionable insights and building intelligent systems that not only solve real-world problems but also create positive social impact. From developing ML models to exploring generative AI and cloud-based solutions, I enjoy pushing boundaries, learning every step of the way, and applying data in ways that drive meaningful change. 
 
 ## 🎓 Education
-**Master of Science in Computer Science**, *The George Washington University* (Expected: May 2026)
-- GPA: 3.74
+**Master of Science in Computer Science**, *The George Washington University* (Graduated: May 2026)
+- GPA: 3.77
 - Honors: SEAS Merit Award
 - Coursework: Neural Networks & Deep Learning, Machine Learning, Database Systems II, Cloud Computing
 
