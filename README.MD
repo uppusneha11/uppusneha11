@@ -21,7 +21,7 @@ Audited 10,000+ Salesforce CRM records, built dashboards for consulting teams, a
 ## 🚀 Featured Projects
 
 **Academic Paper Recommendation System [GitHub](https://github.com/uppusneha11/Paper_Recommendation_System.git)** <br/>
-Hybrid recommendation system across 23.4M papers and 278M citation relationships — combining BERT, Node2Vec, and BM25. Full AWS pipeline for large-scale data processing + Gemini-powered learning paths.
+Hybrid recommendation system across 23.4M papers and 278M citation relationships - combining BERT, Node2Vec, and BM25. Full AWS pipeline for large-scale data processing + Gemini-powered learning paths.
 
 **U.S. Airline On-Time Performance Pipeline [GitHub](https://github.com/uppusneha11/Airline_OnTime_Performance) | [Dashboard](https://public.tableau.com/app/profile/sneha.uppu/viz/AirlineOn-TimePerformance_17736107336330/Dashboard)** <br/>
 End-to-end ETL pipeline on U.S. DOT flight data - AWS S3, PostgreSQL, 
