@@ -13,7 +13,7 @@ Built an ML predictive pipeline on 50,000+ beneficiary records and Tableau dashb
 **CRM Intern - PwC** *(Feb 2024 - Aug 2024)* <br/>
 Migrated and cleaned 85,000+ client records in Salesforce, raising the data quality index from 71 to 94, and built a Power BI dashboard that cut executive meeting prep from 4 hours to 30 minutes.
 
-**Business Analyst / Data Analyst, Optum** *(Aug 2022 - Jan 2024)* <br/>
+**Business Analyst / Data Analyst - Optum** *(Aug 2022 - Jan 2024)* <br/>
 Built an NLP claims categorization model processing 200,000+ monthly claims, saving 1,800 hours of annual manual review, and a Spark pipeline that cut ETL latency from 6 hours to 45 minutes.
 
 ---
