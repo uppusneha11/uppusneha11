@@ -2,6 +2,7 @@
 I'm a Business Analyst and Data Analyst with 3 years of experience across healthcare technology, management consulting, and nonprofit sectors, and a recent graduate with my Masters Degree in Computer Science from The George Washington University (May 2026). I build end-to-end data pipelines, predictive models, and self-service analytics using Python, SQL, Tableau, and Power BI, turning raw data into insights that guide leadership decisions.
 
 Currently looking for full-time Business Analyst, Data Analyst, Data Engineer, or Data Science roles and am Open to relocation.
+
 ---
 
 ## 💼 Experience
