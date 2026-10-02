@@ -30,6 +30,7 @@ Constructed an ETL pipeline processing 50 million flight records across 200+ air
 
 **FAERS Drug Safety Analysis [GitHub](https://github.com/uppusneha11/FAERS_Drug_Safety_Analysis)** <br/>
 Standardized 1M+ drug names across 18 million FDA adverse-event records from disparate source files, powering a FastAPI and DuckDB backend for querying drug-symptom co-occurrence and dosage-related safety patterns.
+
 ---
 
 ## 🛠️ Tech I Work With
