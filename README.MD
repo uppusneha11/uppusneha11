@@ -48,4 +48,4 @@ Standardized 1M+ drug names across 18 million FDA adverse-event records from dis
 
 - 🌐 [Portfolio](sneha-uppu-portfolio.vercel.app) 
 - 💼 [LinkedIn](linkedin.com/in/snehauppu) 
-- 📧 uppusneha11@gmail.com
+- 📧 sneha.uppu3@gmail.com
