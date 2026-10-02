@@ -1,48 +1,44 @@
 ##  👋 Hi! I'm Sneha Uppu
-I'm a Data Analyst and Data Engineer with an MS in Computer Science from The George Washington University, with hands-on experience building data pipelines, machine learning systems, and analytics dashboards. I love transforming complex data into actionable insights and building intelligent systems that not only solve real-world problems but also create positive social impact. 
+I'm a Business Analyst and Data Analyst with 3 years of experience across healthcare technology, management consulting, and nonprofit sectors, and a recent graduate with my Masters Degree in Computer Science from The George Washington University (May 2026). I build end-to-end data pipelines, predictive models, and self-service analytics using Python, SQL, Tableau, and Power BI, turning raw data into insights that guide leadership decisions.
 
-Currently looking for full-time Data Analyst or Data Engineer roles. F-1 STEM OPT - authorized to work in the U.S. for 3 years without sponsorship. Open to relocation.
-
+Currently looking for full-time Business Analyst, Data Analyst, Data Engineer, or Data Science roles and am Open to relocation.
 ---
 
 ## 💼 Experience
 
 **Data Science Intern - Thaddeus Resource Center** *(Nov 2025 - Present)* <br/>
-Analyzed intake and survey data from 100+ clients scaled to 1,000 weekly responses, automated reporting workflows cutting manual effort by 30 - 40%, and present findings directly to the President of the organization.
-
-**AI Intern - Wavess** *(Sep 2025 - Jan 2026)* <br/>
-Built a LinkedIn post automation tool using Python and the OpenAI API, deployed with Docker and Firebase, cutting manual content work by 40 to 50 percent, and owned full production deployment on fly.io.
-
-**Support Assistant - George Washington University** *(Jan 2025 - May 2026)* <br/>
-Analyzed 50,000+ circulation records using SQL and Python, and built dashboards that directly informed library book acquisition decisions.
+Built an ML predictive pipeline on 50,000+ beneficiary records and Tableau dashboards tracking 12 program KPIs, informing $120K in resource allocation and cutting weekly reporting from 6 hours to 45 minutes.
 
 **CRM Intern - PwC** *(Feb 2024 - Aug 2024)* <br/>
-Audited 10,000+ Salesforce CRM records, built dashboards for consulting teams, and authored 20+ QA validation documents adopted across all reporting cycles.
+Migrated and cleaned 85,000+ client records in Salesforce, raising the data quality index from 71 to 94, and built a Power BI dashboard that cut executive meeting prep from 4 hours to 30 minutes.
+
+**Business Analyst / Data Analyst, Optum** *(Aug 2022 – Jan 2024)* <br/>
+Built an NLP claims categorization model processing 200,000+ monthly claims, saving 1,800 hours of annual manual review, and a Spark pipeline that cut ETL latency from 6 hours to 45 minutes.
 
 ---
 
 ## 🚀 Featured Projects
 **CleanCare [GitHub](https://github.com/uppusneha11/CleanCare)** <br/>
-Joins CMS data on 3 facility types into one platform so users can see real staffing and outcome numbers instead of just a star rating. Includes an AI chat assistant and a 19 tool MCP server.
+Built a PostgreSQL healthcare data platform integrating CMS datasets across nursing homes, hospitals, and ambulatory surgical centers, exposing facility quality patterns through a 19-tool MCP server, AI chat assistant, and web dashboard with 128 automated CI tests.
 
 **Academic Paper Recommendation System [GitHub](https://github.com/uppusneha11/Paper_Recommendation_System.git)** <br/>
 Hybrid recommendation system across 23.4M papers and 278M citation relationships - combining BERT, Node2Vec, and BM25. Full AWS pipeline for large-scale data processing + Gemini-powered learning paths.
 
 **U.S. Airline On-Time Performance Pipeline [GitHub](https://github.com/uppusneha11/Airline_OnTime_Performance) | [Dashboard](https://public.tableau.com/app/profile/sneha.uppu/viz/AirlineOn-TimePerformance_17736107336330/Dashboard)** <br/>
-End to end ETL pipeline processing 50M+ flight records across 200+ airlines into PostgreSQL, with a live Streamlit app where users pick a route and date to get data backed airline recommendations.
+Constructed an ETL pipeline processing 50 million flight records across 200+ airlines into PostgreSQL, connecting Streamlit and Tableau dashboards that filter departure, destination, and date inputs for airline performance recommendations.
 
 **FAERS Drug Safety Analysis [GitHub](https://github.com/uppusneha11/FAERS_Drug_Safety_Analysis)** <br/>
-Pharmacovigilance platform on 18M+ FDA adverse event records. Statistical association mining, dose-response modeling, and interactive Plotly dashboards.
-
+Standardized 1M+ drug names across 18 million FDA adverse-event records from disparate source files, powering a FastAPI and DuckDB backend for querying drug-symptom co-occurrence and dosage-related safety patterns.
 ---
 
 ## 🛠️ Tech I Work With
 
-- **Languages:** Python, SQL, R 
-- **Data Engineering:** Apache Airflow, ETL Pipelines, Docker, AWS S3, AWS EC2, FastAPI 
-- **Analysis & Visualization:** Pandas, NumPy, Tableau, Power BI, Plotly, Streamlit 
-- **ML & AI:** Scikit-learn, PyTorch, BERT, TensorFlow, OpenAI API, MCP, Claude
-- **Databases:** PostgreSQL, MySQL, Google Firebase
+- **Languages & Query:**  Python, SQL, R, DAX, Bash
+- **ML & AI Libraries:**  pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, NLTK, LangChain, SciPy, BERT, Node2Vec, statsmodels, Matplotlib, Seaborn, Plotly
+- **BI & Visualization:** Tableau, Tableau Server, Power BI, Looker, Streamlit, Google Data Studio, Metabase, Advanced Excel (Power Query) 
+- **Data Engineering & Warehousing:** Apache Spark, Apache Airflow, Apache Kafka, dbt (data build tool), Snowflake, Databricks, Amazon Redshift, Google BigQuery, Azure Synapse, ETL/ELT Pipelines, Data Modeling
+- **Databases:** PostgreSQL, MySQL, Microsoft SQL Server, MongoDB, Redis, FAISS (Vector Database), Pinecone
+- **AI/ML Techniques:** Machine Learning (ML), Natural Language Processing (NLP), Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Predictive Modeling, A/B Testing, Statistical Analysis, Causal Inference, Cohort Analysis, Funnel Analysis, Feature Engineering, MLOps, Information Retrieval, Recommendation Systems
 
 ---
 
