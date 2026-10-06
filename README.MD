@@ -7,7 +7,7 @@ Currently looking for full-time Business Analyst, Data Analyst, Data Engineer, o
 
 ## 💼 Experience
 
-**Data Science Intern - Thaddeus Resource Center** *(Nov 2025 - Present)* <br/>
+**Data Analyst Intern - Thaddeus Resource Center** *(Nov 2025 - Present)* <br/>
 Built an ML predictive pipeline on 50,000+ beneficiary records and Tableau dashboards tracking 12 program KPIs, informing $120K in resource allocation and cutting weekly reporting from 6 hours to 45 minutes.
 
 **CRM Intern - PwC** *(Feb 2024 - Aug 2024)* <br/>
